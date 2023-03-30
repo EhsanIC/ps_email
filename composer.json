@@ -1,0 +1,19 @@
+{
+    "name": "ehsanic/ps_email",
+    "description": "Email management and sending module",
+    "type": "project",
+    "license": "GNU General Public License v3.0",
+    "autoload": {
+        "psr-4": {
+            "Ehsanic\\PsEmail\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EhsanIC",
+            "email": "erfan.h.010011@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
